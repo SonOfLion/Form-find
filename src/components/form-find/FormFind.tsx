@@ -2,10 +2,9 @@ import './FormFind.scss';
 
 const FormFind = () => {
   return (
-    <div className="wrapper-find">
-      <input/>
-      <button></button>
-    </div>
+    <form className="form-find">
+      1123
+    </form>
   );
 };
 
